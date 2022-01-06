@@ -1,1 +1,1 @@
-Active_Rectifier_Hardware
+Design files (Altium) for my bidirectional active rectifier. 
