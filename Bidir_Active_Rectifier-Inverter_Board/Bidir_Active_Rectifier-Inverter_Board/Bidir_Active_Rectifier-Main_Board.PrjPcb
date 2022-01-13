@@ -318,6 +318,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRFRSTPI
 
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\..\..\..\..\HUGOBO~1\AppData\Local\Temp\Project Outputs for Bidir_Active_Rectifier-Main_Board\Design Rule Check - Bidir_Active_Rectifier-Main_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1229,7 +1233,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
