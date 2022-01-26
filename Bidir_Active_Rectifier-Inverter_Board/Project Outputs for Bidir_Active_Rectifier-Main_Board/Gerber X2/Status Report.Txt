@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Bidir_Active_Rectifier-Main_Board.PrjPcb]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Copper_Signal_Top.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Copper_Signal_Bot.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Pads_Bot.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Pads_Top.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Legend_Bot.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Soldermask_Bot.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Paste_Bot.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Legend_Top.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Paste_Top.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Soldermask_Top.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Keep-out.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Mechanical_13.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Mechanical_1.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Mechanical_15.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board_Profile.gbr]
+   Generated File[Bidir_Active_Rectifier-Main_Board.RUL]
+   Generated File[Bidir_Active_Rectifier-Main_Board.EXTREP]
+   Generated File[Bidir_Active_Rectifier-Main_Board.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 13:45:18 On 2022-01-26
