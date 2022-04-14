@@ -25,12 +25,14 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -319,90 +321,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\Bidir_Active_Rectifier-Main_Board_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
 DocumentPath=Project Outputs for Bidir_Active_Rectifier-Main_Board\BOM.xlsx
 DItemRevisionGUID=
 
@@ -1349,6 +1267,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
